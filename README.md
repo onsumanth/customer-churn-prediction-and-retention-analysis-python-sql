@@ -51,6 +51,7 @@ The workflow consisted of:
 ![Pareto](Supporting%20Files/Paretor%20Analysis%20of%20Customers.png)
 
 
+
 ## 🔍 Insights & Findings
 
 - **Overall churn rate:** ~16%, meaning about 1 in 6 customers are leaving.  
@@ -114,4 +115,5 @@ Adapted and enhanced by **Sumanth P** for data analyst portfolio presentation.
 **Author:** Sumanth P  
 **LinkedIn:** [linkedin.com/in/sumanth-p-4aa127338](https://www.linkedin.com/in/sumanth-p-4aa127338)  
 **GitHub:** [github.com/onsumanth](https://github.com/onsumanth)
+
 
